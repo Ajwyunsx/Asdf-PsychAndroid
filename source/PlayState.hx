@@ -264,6 +264,7 @@ class PlayState extends MusicBeatState
 	
 	// Hscript
 	public var script:Script;
+	public static var instance:PlayState;
 
 	override public function create()
 	{
@@ -271,6 +272,7 @@ class PlayState extends MusicBeatState
  		Paths.destroyLoadedImages(resetSpriteCache);
   		#end	
 		resetSpriteCache = false;
+		instance = this;
 
 		if (FlxG.sound.music != null)
 			FlxG.sound.music.stop();
