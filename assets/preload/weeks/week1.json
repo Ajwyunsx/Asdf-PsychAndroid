@@ -1,0 +1,49 @@
+{
+	"storyName": "ASDF Funkin Week 1",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Random",
+			"default",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Colorful",
+			"default",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Gullible",
+			"default",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "ASDF Funkin Week 1"
+}

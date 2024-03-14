@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DefaultGuyAsdf.png"><SubTexture name="DefaultGuyAsdf down0000" x="0" y="0" width="676" height="611" frameX="160" frameY="0" frameWidth="676" frameHeight="711" />
+<SubTexture name="DefaultGuyAsdf down0001" x="676" y="0" width="676" height="611" frameX="160" frameY="0" frameWidth="676" frameHeight="611" />
+<SubTexture name="DefaultGuyAsdf down0002" x="1352" y="0" width="676" height="611" frameX="160" frameY="0" frameWidth="676" frameHeight="611" />
+<SubTexture name="DefaultGuyAsdf down0003" x="2028" y="0" width="676" height="611" frameX="160" frameY="0" frameWidth="676" frameHeight="611" />
+<SubTexture name="DefaultGuyAsdf down0004" x="0" y="611" width="676" height="611" frameX="160" frameY="0" frameWidth="676" frameHeight="611" />
+<SubTexture name="DefaultGuyAsdf down0005" x="676" y="611" width="676" height="611" frameX="160" frameY="0" frameWidth="676" frameHeight="611" />
+<SubTexture name="DefaultGuyAsdf idle0000" x="1352" y="611" width="300" height="697" frameX="0" frameY="0" frameWidth="300" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf idle0001" x="1652" y="611" width="300" height="697" frameX="0" frameY="0" frameWidth="300" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf idle0002" x="0" y="1308" width="300" height="697" frameX="0" frameY="0" frameWidth="300" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf idle0003" x="300" y="1308" width="300" height="697" frameX="0" frameY="0" frameWidth="300" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf idle0004" x="600" y="1308" width="300" height="697" frameX="0" frameY="0" frameWidth="300" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf idle0005" x="900" y="1308" width="300" height="697" frameX="0" frameY="0" frameWidth="300" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf idle0006" x="0" y="2005" width="300" height="697" frameX="0" frameY="0" frameWidth="300" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf idle0007" x="300" y="2005" width="300" height="697" frameX="0" frameY="0" frameWidth="300" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf idle0008" x="600" y="2005" width="300" height="697" frameX="0" frameY="0" frameWidth="300" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf idle0009" x="900" y="2005" width="300" height="697" frameX="0" frameY="0" frameWidth="300" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf idle0010" x="0" y="2702" width="300" height="697" frameX="0" frameY="0" frameWidth="300" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf idle0011" x="300" y="2702" width="300" height="697" frameX="0" frameY="0" frameWidth="300" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf idle0012" x="600" y="2702" width="300" height="697" frameX="0" frameY="0" frameWidth="300" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf idle0013" x="900" y="2702" width="300" height="697" frameX="0" frameY="0" frameWidth="300" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf idle0014" x="0" y="3399" width="300" height="697" frameX="0" frameY="0" frameWidth="300" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf left note0000" x="300" y="3399" width="466" height="697" frameX="95" frameY="0" frameWidth="466" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf left note0001" x="766" y="3399" width="466" height="697" frameX="95" frameY="0" frameWidth="466" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf left note0002" x="1232" y="3399" width="466" height="697" frameX="95" frameY="0" frameWidth="466" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf left note0003" x="0" y="4096" width="466" height="697" frameX="95" frameY="0" frameWidth="466" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf left note0004" x="466" y="4096" width="466" height="697" frameX="95" frameY="0" frameWidth="466" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf left note0005" x="932" y="4096" width="466" height="697" frameX="95" frameY="0" frameWidth="466" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf Right note0000" x="1398" y="4096" width="492" height="697" frameX="68" frameY="8" frameWidth="492" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf Right note0001" x="0" y="4793" width="492" height="697" frameX="68" frameY="8" frameWidth="492" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf Right note0002" x="492" y="4793" width="492" height="697" frameX="68" frameY="8" frameWidth="492" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf Right note0003" x="984" y="4793" width="492" height="697" frameX="68" frameY="8" frameWidth="492" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf Right note0004" x="1476" y="4793" width="492" height="697" frameX="68" frameY="8" frameWidth="492" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf Right note0005" x="0" y="5490" width="492" height="697" frameX="68" frameY="8" frameWidth="492" frameHeight="697" />
+<SubTexture name="DefaultGuyAsdf up note0000" x="492" y="5490" width="395" height="813" frameX="89" frameY="60" frameWidth="395" frameHeight="813" />
+<SubTexture name="DefaultGuyAsdf up note0001" x="887" y="5490" width="395" height="813" frameX="89" frameY="60" frameWidth="395" frameHeight="813" />
+<SubTexture name="DefaultGuyAsdf up note0002" x="1282" y="5490" width="395" height="813" frameX="89" frameY="60" frameWidth="395" frameHeight="813" />
+<SubTexture name="DefaultGuyAsdf up note0003" x="0" y="6303" width="395" height="813" frameX="89" frameY="60" frameWidth="395" frameHeight="813" />
+<SubTexture name="DefaultGuyAsdf up note0004" x="395" y="6303" width="395" height="813" frameX="89" frameY="60" frameWidth="395" frameHeight="813" />
+<SubTexture name="DefaultGuyAsdf up note0005" x="790" y="6303" width="395" height="813" frameX="89" frameY="60" frameWidth="395" frameHeight="813" />
+</TextureAtlas>
