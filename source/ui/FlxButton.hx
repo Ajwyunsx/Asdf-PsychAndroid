@@ -1,4 +1,4 @@
-package mobile.flixel;
+package ui;
 
 import flixel.FlxCamera;
 import flixel.FlxG;
