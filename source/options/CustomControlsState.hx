@@ -1,6 +1,6 @@
 package options;
 
-import flixel.ui.FlxButton;
+import ui.FlxButton;
 import flixel.addons.ui.FlxUIButton;
 import flixel.text.FlxText;
 import flixel.FlxG;
